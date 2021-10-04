@@ -4,7 +4,7 @@ Po odpaleniu programu powinno nam się wyświetlić okno w którym możemy dokon
 A.WYBÓR IKU LUB WKA
 Przechodzimy do kolejnego wyboru między KATA a KUMITE. (cały czas w zależności od wybranej federacji, logo tej federacji bedzie wyświetlane podczas finalnych wersji programu). 
  1.KATA 
-Wyświetla nam się program do zliczania not od pięciu różnych sędziów (najmniejszą i                                                                                                        największą note program skreśla i zlicza tylko trzy pozostałe). Możemy również wpisać imie i nazwisko zawodnika który będzie aktualnie wykonywał kata na macie. Po wykonaniu ustalonego skrótu klawiszowego można zresetować noty i być w gotowości do zapisania not dla następnej osoby.
+Wyświetla nam się program do zliczania not od pięciu różnych sędziów (najmniejszą i największą note program skreśla i zlicza tylko trzy pozostałe). Możemy również wpisać imie i nazwisko zawodnika który będzie aktualnie wykonywał kata na macie. Po wykonaniu ustalonego skrótu klawiszowego można zresetować noty i być w gotowości do zapisania not dla następnej osoby.
 2.KUMITE 
 Przechodzimy do kolejnego wyboru między kumite SANBON, NIHON, IPPON.
 2.1 KUMITE IPPON
@@ -16,7 +16,7 @@ Wyświetla nam się program w którym mamy określony czas (czas bedzie zatrzymy
 B.WYBÓR UKF
 Przechodzimy do kolejnego wyboru miedzy KATA a KUMITE.
  1.KATA 
-Wyświetla nam się program do zliczania not od pięciu różnych sędziów (najmniejszą i                                                                                                        największą note program skreśla i zlicza tylko trzy pozostałe). Możemy również wpisać imie i nazwisko zawodnika który będzie aktualnie wykonywał kata na macie. Po wykonaniu ustalonego skrótu klawiszowego można zresetować noty i być w gotowości do zapisania not dla następnej osoby.
+Wyświetla nam się program do zliczania not od pięciu różnych sędziów (najmniejszą i największą note program skreśla i zlicza tylko trzy pozostałe). Możemy również wpisać imie i nazwisko zawodnika który będzie aktualnie wykonywał kata na macie. Po wykonaniu ustalonego skrótu klawiszowego można zresetować noty i być w gotowości do zapisania not dla następnej osoby.
 2.KUMITE
 Przechodzimy do kolejnego wyboru między kumite SANBON, NIHON, IPPON oraz KUMITE PROFESJONALNE.
 2.1 KUMITE IPPON

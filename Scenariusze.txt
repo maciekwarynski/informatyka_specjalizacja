@@ -1,79 +1,70 @@
 Wersja I
 1. Odpalamy program
-2. Wyœwietla nam siê okno wyboru jednej z trzech federacji 
-3. U¿ytkownik wybiera jedn¹ z federacji (UKF)
-4. Wyœwietla nam siê okno wyboru miêdzy dwiema opcjami
-5. U¿ytkownik wybiera jedn¹ z opcji (kata)
-6. Odpala siê docelowa czêœæ programu
+2. WyÅ›wietla nam siÄ™ okno wyboru jednej z trzech federacji 
+3. UÅ¼ytkownik wybiera jednÄ… z federacji (UKF)
+4. WyÅ›wietla nam siÄ™ okno wyboru miÄ™dzy dwiema opcjami
+5. UÅ¼ytkownik wybiera jednÄ… z opcji (kata)
+6. Odpala siÄ™ docelowa czÄ™Å›Ä‡ programu
 Wersja II
 1. Odpalamy program
-2. Wyœwietla nam siê okno wyboru jednej z trzech federacji 
-3. U¿ytkownik wybiera jedn¹ z federacji (UKF)
-4. Wyœwietla nam siê okno wyboru miêdzy dwiema opcjami
-5. U¿ytkownik wybiera jedn¹ z opcji (kumite)
-6. Wyœwietla nam siê kolejne okno wyboru miêdzy siedmioma opcjami
-7. U¿ytkownik wybiera jedn¹ z opcji (ippon)
-8. Wyœwietla nam siê docelowa czeœæ programu
+2. WyÅ›wietla nam siÄ™ okno wyboru jednej z trzech federacji 
+3. UÅ¼ytkownik wybiera jednÄ… z federacji (UKF)
+4. WyÅ›wietla nam siÄ™ okno wyboru miÄ™dzy dwiema opcjami
+5. UÅ¼ytkownik wybiera jednÄ… z opcji (kumite)
+6. WyÅ›wietla nam siÄ™ kolejne okno wyboru miÄ™dzy siedmioma opcjami
+7. UÅ¼ytkownik wybiera jednÄ… z opcji (ippon)
+8. WyÅ›wietla nam siÄ™ docelowa czeÅ›Ä‡ programu
 Wersja III
 1. Odpalamy program
-2. Wyœwietla nam siê okno wyboru jednej z trzech federacji 
-3. U¿ytkownik wybiera jedn¹ z federacji (UKF)
-4. Wyœwietla nam siê okno wyboru miêdzy dwiema opcjami
-5. U¿ytkownik wybiera jedn¹ z opcji (kumite)
-6. Wyœwietla nam siê kolejne okno wyboru miêdzy siedmioma opcjami
-7. U¿ytkownik wybiera jedn¹ z opcji (nihon)
-8. Wyœwietla nam siê docelowa czeœæ programu
+2. WyÅ›wietla nam siÄ™ okno wyboru jednej z trzech federacji 
+3. UÅ¼ytkownik wybiera jednÄ… z federacji (UKF)
+4. WyÅ›wietla nam siÄ™ okno wyboru miÄ™dzy dwiema opcjami
+5. UÅ¼ytkownik wybiera jednÄ… z opcji (kumite)
+6. WyÅ›wietla nam siÄ™ kolejne okno wyboru miÄ™dzy siedmioma opcjami
+7. UÅ¼ytkownik wybiera jednÄ… z opcji (nihon)
+8. WyÅ›wietla nam siÄ™ docelowa czeÅ›Ä‡ programu
 Wersja IV
 1. Odpalamy program
-2. Wyœwietla nam siê okno wyboru jednej z trzech federacji 
-3. U¿ytkownik wybiera jedn¹ z federacji (UKF)
-4. Wyœwietla nam siê okno wyboru miêdzy dwiema opcjami
-5. U¿ytkownik wybiera jedn¹ z opcji (kumite)
-6. Wyœwietla nam siê kolejne okno wyboru miêdzy siedmioma opcjami
-7. U¿ytkownik wybiera jedn¹ z opcji (sanbon)
-8. Wyœwietla nam siê docelowa czeœæ programu
+2. WyÅ›wietla nam siÄ™ okno wyboru jednej z trzech federacji 
+3. UÅ¼ytkownik wybiera jednÄ… z federacji (UKF)
+4. WyÅ›wietla nam siÄ™ okno wyboru miÄ™dzy dwiema opcjami
+5. UÅ¼ytkownik wybiera jednÄ… z opcji (kumite)
+6. WyÅ›wietla nam siÄ™ kolejne okno wyboru miÄ™dzy siedmioma opcjami
+7. UÅ¼ytkownik wybiera jednÄ… z opcji (sanbon)
+8. WyÅ›wietla nam siÄ™ docelowa czeÅ›Ä‡ programu
 Wersja V
-1.  Odpalamy program
-2. Wyœwietla nam siê okno wyboru jednej z trzech federacji 
-3. U¿ytkownik wybiera jedn¹ z federacji (UKF)
-4. Wyœwietla nam siê okno wyboru miêdzy dwiema opcjami
-5. U¿ytkownik wybiera jedn¹ z opcji (kumite)
-6. Wyœwietla nam siê kolejne okno wyboru miêdzy siedmioma opcjami
-7. U¿ytkownik wybiera jedn¹ z opcji (ippon)
-8. Wyœwietla nam siê docelowa czeœæ programu
+1. Odpalamy program
+2. WyÅ›wietla nam siÄ™ okno wyboru jednej z trzech federacji 
+3. UÅ¼ytkownik wybiera jednÄ… z federacji (UKF)
+4. WyÅ›wietla nam siÄ™ okno wyboru miÄ™dzy dwiema opcjami
+5. UÅ¼ytkownik wybiera jednÄ… z opcji (kumite)
+6. WyÅ›wietla nam siÄ™ kolejne okno wyboru miÄ™dzy siedmioma opcjami
+7. UÅ¼ytkownik wybiera jednÄ… z opcji (rotation ippon)
+8. WyÅ›wietla nam siÄ™ docelowa czeÅ›Ä‡ programu
 Wersja VI
 1. Odpalamy program
-2. Wyœwietla nam siê okno wyboru jednej z trzech federacji 
-3. U¿ytkownik wybiera jedn¹ z federacji (UKF)
-4. Wyœwietla nam siê okno wyboru miêdzy dwiema opcjami
-5. U¿ytkownik wybiera jedn¹ z opcji (kumite)
-6. Wyœwietla nam siê kolejne okno wyboru miêdzy siedmioma opcjami
-7. U¿ytkownik wybiera jedn¹ z opcji (rotation ippon)
-8. Wyœwietla nam siê docelowa czeœæ programu
+2. WyÅ›wietla nam siÄ™ okno wyboru jednej z trzech federacji 
+3. UÅ¼ytkownik wybiera jednÄ… z federacji (UKF)
+4. WyÅ›wietla nam siÄ™ okno wyboru miÄ™dzy dwiema opcjami
+5. UÅ¼ytkownik wybiera jednÄ… z opcji (kumite)
+6. WyÅ›wietla nam siÄ™ kolejne okno wyboru miÄ™dzy siedmioma opcjami
+7. UÅ¼ytkownik wybiera jednÄ… z opcji (rotation nihon)
+8. WyÅ›wietla nam siÄ™ docelowa czeÅ›Ä‡ programu
 Wersja VII
 1. Odpalamy program
-2. Wyœwietla nam siê okno wyboru jednej z trzech federacji 
-3. U¿ytkownik wybiera jedn¹ z federacji (UKF)
-4. Wyœwietla nam siê okno wyboru miêdzy dwiema opcjami
-5. U¿ytkownik wybiera jedn¹ z opcji (kumite)
-6. Wyœwietla nam siê kolejne okno wyboru miêdzy siedmioma opcjami
-7. U¿ytkownik wybiera jedn¹ z opcji (rotation nihon)
-8. Wyœwietla nam siê docelowa czeœæ programu
+2. WyÅ›wietla nam siÄ™ okno wyboru jednej z trzech federacji 
+3. UÅ¼ytkownik wybiera jednÄ… z federacji (UKF)
+4. WyÅ›wietla nam siÄ™ okno wyboru miÄ™dzy dwiema opcjami
+5. UÅ¼ytkownik wybiera jednÄ… z opcji (kumite)
+6. WyÅ›wietla nam siÄ™ kolejne okno wyboru miÄ™dzy siedmioma opcjami
+7. UÅ¼ytkownik wybiera jednÄ… z opcji (rotation sanbon)
+8. WyÅ›wietla nam siÄ™ docelowa czeÅ›Ä‡ programu
 Wersja VIII
 1. Odpalamy program
-2. Wyœwietla nam siê okno wyboru jednej z trzech federacji 
-3. U¿ytkownik wybiera jedn¹ z federacji (UKF)
-4. Wyœwietla nam siê okno wyboru miêdzy dwiema opcjami
-5. U¿ytkownik wybiera jedn¹ z opcji (kumite)
-6. Wyœwietla nam siê kolejne okno wyboru miêdzy siedmioma opcjami
-7. U¿ytkownik wybiera jedn¹ z opcji (rotation sanbon)
-8. Wyœwietla nam siê docelowa czeœæ programu
-Wersja IX
-1. Odpalamy program
-2. Wyœwietla nam siê okno wyboru jednej z trzech federacji 
-3. U¿ytkownik wybiera jedn¹ z federacji (UKF)
-4. Wyœwietla nam siê okno wyboru miêdzy dwiema opcjami
-5. U¿ytkownik wybiera jedn¹ z opcji (kumite)
-6. Wyœwietla nam siê kolejne okno wyboru miêdzy siedmioma opcjami
-7. U¿ytkownik wybiera jedn¹ z opcji (profesjonalne)
-8. Wyœwietla nam siê docelowa czeœæ programu
+2. WyÅ›wietla nam siÄ™ okno wyboru jednej z trzech federacji 
+3. UÅ¼ytkownik wybiera jednÄ… z federacji (UKF)
+4. WyÅ›wietla nam siÄ™ okno wyboru miÄ™dzy dwiema opcjami
+5. UÅ¼ytkownik wybiera jednÄ… z opcji (kumite)
+6. WyÅ›wietla nam siÄ™ kolejne okno wyboru miÄ™dzy siedmioma opcjami
+7. UÅ¼ytkownik wybiera jednÄ… z opcji (profesjonalne)
+8. WyÅ›wietla nam siÄ™ docelowa czeÅ›Ä‡ programu
